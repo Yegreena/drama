@@ -9,10 +9,8 @@
 
 ```
 drama_project/
-├── streamlit_app.py         # 主入口文件
+├── home.py         # 主入口文件
 ├── pages/                   # 子页面模块（如分镜生成）
-├── config/                  # 配置文件（如默认参数、系统提示词等）
-├── assets/                  # 图片、样式等资源
 ├── requirements.txt         # 依赖包清单
 └── README.md
 ```
